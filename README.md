@@ -8,4 +8,4 @@ This is a description of the project.
 
 ## Resized Image
 
-<img src="images/example.png" alt="Alt text" width="300"/>
+<img src="images/group_pic.png" alt="Alt text" width="300"/>
