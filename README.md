@@ -1,11 +1,8 @@
 # Project Title
 
-This is a description of the project.
+Computer Architecture is fun. We really loved this sessional!!
 
-## Example Image
 
-![Alt text](images/example.png)
+## Our Group Photo
 
-## Resized Image
-
-<img src="images/group_pic.png" alt="Alt text" width="300"/>
+<img src="images/group_pic.jpg" alt="Alt text" width="300"/>
